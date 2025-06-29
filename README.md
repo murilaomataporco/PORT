@@ -42,9 +42,9 @@
     <section id="contato">
         <h2>Contato</h2>
         <form>
-            <label for="nome">Nome:</label>
+            <label for="nome">Nome:fulano </label>
             <input type="text" id="nome" name="nome" required>
-            <label for="email">Email:</label>
+            <label for="email">Email:fulano@gmail.com </label>
             <input type="email" id="email" name="email" required>
             <label for="mensagem">Mensagem:</label>
             <textarea id="mensagem" name="mensagem" required></textarea>
